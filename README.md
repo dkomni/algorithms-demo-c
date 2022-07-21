@@ -8,7 +8,7 @@ Every folder contains *utility.c* and *utility.h* files, where some basic functi
 ## Sorting
 Folder contains implementation of **BubbleSort**, **HeapSort**, **InsertionSort**, **SelectionSort**, **MergeSort** and **QuickSort** algorithms. The main function in each file may be modified in order to test various examples and select ascending or descending sorting. Detailed comments may be found inside the code about the implementation, as well as some information regarding time and space complexity of different solutions and approaches.
 
-## Divide&amp;Conquer, Dynamic Programming (DP)
+## Divide&amp;Conquer (D&Q), Dynamic Programming (DP)
 Here, we deal with some famous problems in Computer Science and give solutions using D&Q and DP techniques. As before, one may find detailed information inside the code. The problems we are dealing with include
 
 - *Find if there is an index i in a sorted array, such that it is equal to the element in that position, i.e array(i) = i*
