@@ -1,7 +1,7 @@
 # algorithms-demo-c
 Demonstration of various algorithms in C language and solutions to some common problems in Computer Science using *Divide&amp;Conquer* and *Dynamic Programming* (DP).
 
-Every folder contains *utility.c* and *utility.h* files, where some basic functions are implemented for demonstration purposes like creating arrays, swapping values, find min-max values e.t.c. Detailed comments may be found inside the code. Also, a pdf file is included with the basic properties involving these algorithms.
+Every folder contains *utility.c* and *utility.h* files, where some basic functions are implemented for demonstration purposes like creating arrays, swapping values, find min-max values e.t.c. Detailed comments may be found inside the code. Also, a pdf file is included with the basic properties involving the sorting algorithms.
 
 ## Sorting
 Folder contains implementation of **BubbleSort**, **HeapSort**, **InsertionSort**, **SelectionSort**, **MergeSort** and **QuickSort** algorithms. The main function in each file may be modified in order to test various examples and select ascending or descending sorting. Detailed comments may be found inside the code about the implementation, as well as some information regarding time and space complexity of different solutions and approaches.
