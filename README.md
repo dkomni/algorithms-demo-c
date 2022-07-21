@@ -36,7 +36,7 @@ Here, we deal with some famous problems in Computer Science and give solutions u
    - Different partition schemes may be used here, see inside the code for detailed information
                     
 ## Remarks
-The code provided here is mainly for educational, as well as demonstration purposes in order to dive into the study of algorithms and compare various techniques that are present in computer science. I wrote this code when I was studying algorithms myself as it is a subject that amazes me up to this day. Of course, nowadays there are efficient and optimized built-in implementations in various libraries of different programming languages. However, any computer scientist must know what is *'inside the box'*, rather than using it as it is.
+The code provided here is mainly for educational, as well as demonstration purposes in order to dive into the study of algorithms and compare various techniques that are present in computer science. I wrote this code when I was studying algorithms myself as it is a subject that amazes me up to this day. Of course, nowadays there are efficient and optimized built-in implementations in various libraries of different programming languages. However, any computer scientist must know what is *'inside the box'*, rather than just using it as it is.
 
 The book I followed for the implementation is the famous *'Introduction to Algorithms, 2nd Edition'* by *Cormen, Leiserson, Rivest and Stein* (CLRS).
 
