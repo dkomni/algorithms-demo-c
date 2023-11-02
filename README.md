@@ -1,4 +1,5 @@
-# algorithms-demo-c
+# Data Structures & Algorithms in C language
+
 Demonstration of various algorithms in C language and solutions to some common problems in Computer Science using *Divide&amp;Conquer* (D&Q) and *Dynamic Programming* (DP).
 
 Every folder contains *utility.c* and *utility.h* files, where some basic functions are implemented for demonstration purposes like creating arrays, swapping values, find min-max values e.t.c. Detailed comments may be found inside the code. Also, a pdf file is included with the basic properties involving the sorting algorithms. 
